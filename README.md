@@ -53,7 +53,7 @@ vine table is shown below:
     2) Percent of Helpful Votes to Total Votes equal or greater than 50%.
 
 ### How many Vine reviews and non-Vine reviews were there?
-- Vine members made up only 2.1% (1,080) of the reviews whereas the remaining 97.9% were Non-Vine members (49,659).
+- Vine members made up only 21 of the reviews whereas the remaining 7,689 were Non-Vine members (7,962).
 
 - Here, Precending images are shown for vine and non-vine reviews.
 
@@ -63,18 +63,21 @@ vine table is shown below:
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-* Vine members gave 454 out of 1,080 reviews a 5 star rating.
-* Non-Vine members gave 23,034 out of 49,659 reviews a 5 star rating.
+* Vine members gave 11 out of 21 reviews a 5 star rating.
+* Non-Vine members gave 4,444  out of 7,689 reviews a 5 star rating.
 
 ![5_star_reviews](https://github.com/miralchangela/Amazon_Vine_Analysis/blob/main/resources/images/helpful_votes.png)
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-* 42% of the reviews for Vine members were rated 5 stars.
-* 46.4% of the reviews for Non-Vine members were rated 5 stars.
+* 52.38% of the reviews for Vine members were rated 5 stars.
+* 57.79% of the reviews for Non-Vine members were rated 5 stars.
 
 ![total_df](https://github.com/miralchangela/Amazon_Vine_Analysis/blob/main/resources/images/rating_total_df.png)
 
 ## Summary:
+
+- Based on the results, 52.38% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 57.79%. This describes a negative bias for reviews in the Vine program.
+- Additionally we could analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
 
 
