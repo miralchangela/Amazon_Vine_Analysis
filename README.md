@@ -63,9 +63,15 @@ vine table is shown below:
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
+* Vine members gave 454 out of 1,080 reviews a 5 star rating.
+* Non-Vine members gave 23,034 out of 49,659 reviews a 5 star rating.
+
 ![5_star_reviews](https://github.com/miralchangela/Amazon_Vine_Analysis/blob/main/resources/images/helpful_votes.png)
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+* 42% of the reviews for Vine members were rated 5 stars.
+* 46.4% of the reviews for Non-Vine members were rated 5 stars.
 
 ![total_df](https://github.com/miralchangela/Amazon_Vine_Analysis/blob/main/resources/images/rating_total_df.png)
 
