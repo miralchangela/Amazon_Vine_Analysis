@@ -43,7 +43,7 @@ count(
 		end) AS number_of_5_star_reviews,
 cast(count(
 	case when star_rating=5 
-	then review_id else NULL end)*100/count(review_id) as FLOAT) AS percentage
+	then review_id else NULL end) as FLOAT)*100/count(review_id) AS percentage
 into paid_analysis_table 
 from total_votes_more_50 
 group by vine;
